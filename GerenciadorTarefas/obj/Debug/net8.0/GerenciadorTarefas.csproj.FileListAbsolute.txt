@@ -1,0 +1,14 @@
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasSimples\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.exe
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasSimples\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.deps.json
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasSimples\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.runtimeconfig.json
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasSimples\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.dll
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasSimples\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.pdb
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasSimples\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasSimples\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.AssemblyInfoInputs.cache
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasSimples\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.AssemblyInfo.cs
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasSimples\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.csproj.CoreCompileInputs.cache
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasSimples\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.dll
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasSimples\GerenciadorTarefas\obj\Debug\net8.0\refint\GerenciadorTarefas.dll
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasSimples\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.pdb
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasSimples\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.genruntimeconfig.cache
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasSimples\GerenciadorTarefas\obj\Debug\net8.0\ref\GerenciadorTarefas.dll
